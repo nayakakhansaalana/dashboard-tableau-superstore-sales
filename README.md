@@ -74,5 +74,6 @@ OpenStreetMap & Mapbox untuk visualisasi peta.
 
 Dashboard ini bertujuan untuk membantu analisis data penjualan dalam memahami pola penjualan, profitabilitas, dan strategi bisnis yang lebih efektif.
 
-## 📌 Dibuat oleh Nayaka Khansa Alana📅 Tahun: 2025
+## 📌 Dibuat oleh Nayaka Khansa Alana
+## 📅 Tahun: 2025
 
